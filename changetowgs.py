@@ -1,7 +1,6 @@
 #!/usr/bin/evn python
 # -*- coding:utf-8 -*-
 
-# by zhoujm00000 2018年11月15日09:49
 import math
 import thread
 import os
